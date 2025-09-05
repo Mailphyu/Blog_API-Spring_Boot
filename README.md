@@ -37,8 +37,8 @@ This project is a Blog management API built using Spring Boot. It allows you to 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mailphyu/Blog_API-Spring_Boot
+cd Blog_API-Spring_Boot
 ```
 
 2. Build the project:
@@ -88,7 +88,7 @@ PairSum.findPair(nums, target); // Output: Pair found (8, 2)
 
 ## Testing
 
-* Postman collection (`BlogAPI.postman_collection.json`) and environment (`BlogAPI-local.postman_environment.json`) are included.
+* Postman collection (`BlogAPI.postman_collection.json`) and environment (`Blog API - Local.postman_environment.json`) are included.
 * Steps:
 
   1. Import the collection and environment into Postman.
